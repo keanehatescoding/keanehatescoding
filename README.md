@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keanehatescoding
-- 👀 I’m interested in Software Developmen and Data Science.
-- 🌱 I’m currently learning node and python
-- 💞️ I’m looking to collaborate on node projects and Data Science projects.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently C.
+- 💞️ I’m looking to collaborate on C.
 - 📫 How to reach me ...
 - 😄 Pronouns: Gym
 - ⚡ Fun fact: ...
