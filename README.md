@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keanehatescoding
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in cybersecurity and kernel development.
 - 🌱 I’m currently C.
-- 💞️ I’m looking to collaborate on C.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Gym
 - ⚡ Fun fact: ...
