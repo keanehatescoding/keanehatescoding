@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keanehatescoding
-- 👀 I’m interested in cybersecurity and kernel development.
-- 🌱 I’m currently C.
+- 👀 I’m interested in tinkering with software.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Gym
