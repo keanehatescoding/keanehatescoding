@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keanehatescoding
-- 👀 I’m interested in tinkering with software.
-- 🌱 I’m currently learning C.
+- 👀 I’m interested in tinkering with android.
+- 🌱 I’m currently learning Haskell, Assembly, Kotlin, Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Gym
