@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @keanehatescoding
 - 👀 I’m interested in tinkering with android.
-- 🌱 I’m currently learning Haskell, Assembly, Kotlin, Java.
+- 🌱 I’m currently learning X86-64 assembly
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me thm @keanehatessec 
 - 😄 Pronouns: Gym
 - ⚡ Fun fact: ...
 
