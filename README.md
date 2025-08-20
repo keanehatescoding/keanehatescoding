@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @keanehatescoding
-- 👀 I’m interested in tinkering with android.
-- 🌱 I’m currently learning X86-64 assembly
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in tinkering with pwn.
+- 🌱 I’m currently learning low level stuff.
+- 💞️ I’m looking to collaborate open source stuff
 - 📫 How to reach me thm @keanehatessec 
-- 😄 Pronouns: Gym
 - ⚡ Fun fact: ...
 
 <!---
